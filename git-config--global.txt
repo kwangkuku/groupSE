@@ -1,0 +1,3 @@
+git config global
+คำสั่ง git config --เครื่องหมายลบสองครั้ง)global user.name "ชื่อที่เราจะตั้ง"
+คำสั่ง git config --(เครื่องหมายลบสองครั้ง)global user.email "ชื่อemail"
