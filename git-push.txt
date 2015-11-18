@@ -1,0 +1,3 @@
+ส่ง flie ที่แก้ไขแล้ว ออกไป 
+ตัวอย่างคำสั่ง$ git push origin master
+  
